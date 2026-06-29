@@ -50,16 +50,6 @@ Your static site (Next.js, Astro, Gatsby, or anything that reads MDX files) pick
 
 ---
 
-## Tech stack
-
-- **Frontend** — Next.js 16 App Router
-- **Backend** — Express, Drizzle ORM, PostgreSQL
-- **Auth** — GitHub OAuth
-- **Content** — MDX files committed to your GitHub repo via the GitHub API
-- **Editor** — Tiptap-based WYSIWYG with raw markdown toggle
-
----
-
 ## License
 
 MIT
