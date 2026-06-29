@@ -40,8 +40,8 @@ Define field types, required fields, and content structure for each collection. 
 **Media library**
 Upload images and reference them in content. No manual file paths, no separate asset hosting to configure.
 
-**Multi-repo support**
-Connect multiple GitHub repositories from a single md0 account. Manage content across different sites and projects in one place.
+**One repo, one source of truth**
+Connect your GitHub repository and manage all your content from a single place. No sprawl, no sync issues — one repo drives everything.
 
 **Zero lock-in**
 Disconnect md0 and your content is untouched — plain `.mdx` files sitting in your repo, exactly as they were.
