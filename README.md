@@ -60,14 +60,6 @@ Your static site (Next.js, Astro, Gatsby, or anything that reads MDX files) pick
 
 ---
 
-## Self-hosting
-
-The backend is a standard Express + Node.js service with a PostgreSQL database. All application data is stored in your own Postgres instance; Supabase is used only as a GitHub OAuth broker and holds no content data.
-
-See the [self-hosting docs](https://md0.io/docs/cms) for setup instructions.
-
----
-
 ## License
 
 MIT
